@@ -51,3 +51,20 @@ and open the template in the editor.
     margin: -25px 10px 0 0;
     cursor: pointer;
 }
+
+.form-control.is-invalid, .was-validated .form-control:invalid{
+    border-color: #dc3545 !important;
+    padding-right: calc(1.5em + .75rem);
+    background-image: none !important;
+    background-repeat: no-repeat;
+    background-position: right calc(.375em + .1875rem) center;
+    background-size: calc(.75em + .375rem) calc(.75em + .375rem);
+}
+
+.custom-control-input.is-valid~.custom-control-label, .was-validated .custom-control-input:valid~.custom-control-label {
+    color: #000 !important;
+}
+
+.form-control.is-valid, .was-validated .form-control:valid {
+    background-position: right calc(.375em + 2rem) center !important;
+}
