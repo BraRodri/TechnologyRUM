@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23-oct-2020, 10:24:34
+    Author     : Braro
+*/
+
+.login,
+.image {
+  min-height: 100vh;
+}
+
+.bg-image {
+  background: #3A4348;
+  background-image: url('../assets/img/logo.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.btn-primario {
+    color: #fff;
+    background-color: #3A4348;
+    border-color: #3A4348;
+}
+
+.display-5{
+    color: #FFB715;
+    font-size: 50px;
+}
+
+.btn-primario:hover {
+    color: #fff;
+    background-color: #303437;
+    border-color: #303437;
+}
