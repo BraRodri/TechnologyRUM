@@ -10,14 +10,14 @@ and open the template in the editor.
 
 .login,
 .image {
-  min-height: 100vh;
+    min-height: 100vh;
 }
 
 .bg-image {
-  background: #3A4348;
-  background-image: url('../assets/img/logo.png');
-  background-repeat: no-repeat;
-  background-position: center center;
+    background: #3A4348;
+    background-image: url('../assets/img/logo.png');
+    background-repeat: no-repeat;
+    background-position: center center;
 }
 
 .btn-primario {
@@ -35,4 +35,19 @@ and open the template in the editor.
     color: #fff;
     background-color: #303437;
     border-color: #303437;
+}
+
+.text-primary {
+    color: #FFB715!important;
+}
+
+.formulario-login .input-group-prepend{
+    border-radius: 50rem!important;
+}
+
+.password-icon {
+    float: right;
+    position: relative;
+    margin: -25px 10px 0 0;
+    cursor: pointer;
 }
