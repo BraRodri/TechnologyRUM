@@ -6,6 +6,13 @@
 
 $(document).ready(function () {
 
+    var valor = $("#obtInfo").val();
+    var error1 = "'404'";
+    
+    if (valor == error1) {
+        alertify.error('Error, Usuario no Encontrado!');
+    }
+    
     $("#password-iconn").click(function () {
 
         var password1 = document.getElementById('inputPassword');
@@ -19,6 +26,8 @@ $(document).ready(function () {
             $("#password-iconn").addClass("fa-eye-slash");
         }
     });
+    
+    
 });
 
 (function () {

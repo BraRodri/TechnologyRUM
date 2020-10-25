@@ -3,8 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Braro/Documents/NetBeansProjects/ProyectoMinas/web/index.html</file>
-            <file>file:/C:/Users/Braro/Documents/NetBeansProjects/ProyectoMinas/web/css/login.css</file>
+            <file>file:/C:/Users/Braro/Documents/GitHub/TechnologyRUM/web/js/js-admin.js</file>
+            <file>file:/C:/Users/Braro/Documents/GitHub/TechnologyRUM/src/java/CONTROLLER/Servelet_Minero.java</file>
+            <file>file:/C:/Users/Braro/Documents/GitHub/TechnologyRUM/web/js/js-login.js</file>
+            <file>file:/C:/Users/Braro/Documents/GitHub/TechnologyRUM/web/views/admin/gestionMineros.jsp</file>
+            <file>file:/C:/Users/Braro/Documents/GitHub/TechnologyRUM/web/css/sb-admin-2.css</file>
+            <file>file:/C:/Users/Braro/Documents/GitHub/TechnologyRUM/web/css/admin.css</file>
+            <file>file:/C:/Users/Braro/Documents/GitHub/TechnologyRUM/web/views/admin/inicio.jsp</file>
+            <file>file:/C:/Users/Braro/Documents/GitHub/TechnologyRUM/src/java/FACADE/Facade.java</file>
+            <file>file:/C:/Users/Braro/Documents/GitHub/TechnologyRUM/src/java/DAO/MineroDAO.java</file>
+            <file>file:/C:/Users/Braro/Documents/GitHub/TechnologyRUM/src/java/CONTROLLER/Servelet_login.java</file>
         </group>
     </open-files>
 </project-private>
